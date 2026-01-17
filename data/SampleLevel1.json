@@ -2,8 +2,10 @@
     "id": 106,
     "name": "Oon an Oon",
     "author": "ForbidBasket",
-    "creators": ["ForbidBasket"]
+    "creators": [],
     "verifier": "ForbidBasket",
-    "percentToQualify": 100
-        {
+    "verification": "",
+    "percentToQualify": "100",
+    "records": [
+    ]
 }
