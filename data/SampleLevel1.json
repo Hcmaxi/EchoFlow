@@ -4,14 +4,6 @@
     "author": "ForbidBasket",
     "creators": ["ForbidBasket"]
     "verifier": "ForbidBasket",
-    "verification": "",
-    "percentToQualify": 100,
-    "records": [
+    "percentToQualify": 100
         {
-            "user": "Sample_Victor_1",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
 }
