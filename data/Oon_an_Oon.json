@@ -2,7 +2,7 @@
     "id": 106,
     "name": "Oon an Oon",
     "author": "ForbidBasket",
-    "creators": [],
+    "creators": ["ForbidBasket"],
     "verifier": "ForbidBasket",
     "verification": "",
     "percentToQualify": "100",
