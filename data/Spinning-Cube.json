@@ -1,0 +1,23 @@
+{
+    "id": 105,
+    "name": "Spinning Cube",
+    "author": "Sleepy",
+    "creators": ["Sleepy"],
+    "verifier": "Sleepy",
+    "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+},
+        {
+  "user": "Aerox",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ]
+}
